@@ -4,9 +4,6 @@
     "keywords": ["forever", "test", "forevertest"],
     "type": "library",
     "license": "MIT",
-    "require-dev": {
-        "kangaroo0425/forevertest": "*"
-    },
     "autoload": {
       "psr-4": {
         "kangaroo0425\\forevertest\\": "src/"
