@@ -5,8 +5,6 @@
     "type": "library",
     "license": "MIT",
     "require-dev": {
-    },
-    "require-dev": {
         "kangaroo0425/forevertest": "*"
     },
     "autoload": {
