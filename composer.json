@@ -8,7 +8,7 @@
     },
     "autoload": {
       "psr-4": {
-        "kangaroo0425\\forevertest": "src/"
+        "kangaroo0425\\forevertest\\": "src/"
       }
     }
 }
