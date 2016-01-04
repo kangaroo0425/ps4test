@@ -1,0 +1,14 @@
+{
+    "name": "kangaroo0425/forevertest",
+    "description": "forevertest",
+    "keywords": ["forever", "test", "forevertest"],
+    "type": "library",
+    "license": "MIT",
+    "require-dev": {
+    },
+    "autoload": {
+      "psr-4": {
+        "kangaroo0425\\forevertest": "src/"
+      }
+    }
+}
