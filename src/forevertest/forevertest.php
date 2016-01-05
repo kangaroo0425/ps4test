@@ -1,6 +1,6 @@
 <?php
 
-namespace Kangaroo0425;
+namespace Kangaroo0425\Forevertest;
 
 class forevertest
 {
