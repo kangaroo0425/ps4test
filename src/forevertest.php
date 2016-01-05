@@ -2,12 +2,10 @@
 
 namespace Kangaroo0425\Forevertest;
 
-use Rhumsaa\Uuid\Uuid;
-
 class forevertest
 {
-    public function uuid()
+    public function echotest()
     {
-        return Uuid::uuid4();
+        echo "test success!!";
     }
 }
