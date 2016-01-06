@@ -9,7 +9,4 @@
         "Kangaroo0425\\": "src/"
       }
     }
-    "require": {
-        "guzzlehttp/guzzle": "~5.0"
-    }
 }
