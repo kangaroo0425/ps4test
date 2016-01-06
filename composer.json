@@ -6,7 +6,7 @@
     "license": "MIT",
     "autoload": {
       "psr-4": {
-        "kangaroo0425\\": "src/"
+        "Kangaroo0425\\": "src/"
       }
     }
 }
