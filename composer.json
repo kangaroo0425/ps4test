@@ -4,6 +4,9 @@
     "keywords": ["forever", "test", "forevertest"],
     "type": "library",
     "license": "MIT",
+    "require": {
+        "guzzlehttp/guzzle": "~5.0"
+    },
     "autoload": {
       "psr-4": {
         "Kangaroo0425\\": "src/"
